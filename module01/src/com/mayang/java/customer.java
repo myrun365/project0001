@@ -5,6 +5,7 @@ public class customer {
     public static void main(String[] args){
         int num1 = 10;
         int num2 = 20;
+
 //sout  /soutp  /soutm   /soutv   / xxx.sout
         System.out.println("HelloWorld!!!");
         System.out.println("customer.main");
